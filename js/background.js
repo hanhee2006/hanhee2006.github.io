@@ -8,7 +8,7 @@ const body = document.querySelector("body")
 
 
 
-body.style.backgroundImage =`url(img/${chosenImage})`
+body.style.backgroundImage =`url(./img/${chosenImage})`
 body.style.backgroundSize = 'cover'
 
 
